@@ -33,12 +33,13 @@ Equipment tracking in college ECE labs is often manual, leading to lost items an
 ## Screenshots
 
 ### Login Screen
+![Dashboard](Screenshot%20(104).png)
 
 
-![Login](Screenshot%20(103).png)
 
 ### Admin Dashboard
-![Dashboard](Screenshot%20(104).png)
+![Login](Screenshot%20(103).png)
 
 ### Borrow Feature
 ![Borrow](Screenshot%20(105).png)
+
