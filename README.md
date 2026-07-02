@@ -29,3 +29,16 @@ Equipment tracking in college ECE labs is often manual, leading to lost items an
 3. Add MySQL Connector JAR to classpath
 4. Run LoginScreen.java
 5. Login: Username Admin User / Password admin123
+
+## Screenshots
+
+### Login Screen
+
+
+![Login](Screenshot%20(103).png)
+
+### Admin Dashboard
+![Dashboard](Screenshot%20(104).png)
+
+### Borrow Feature
+![Borrow](Screenshot%20(105).png)
